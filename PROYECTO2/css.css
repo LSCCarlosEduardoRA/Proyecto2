@@ -1,0 +1,12 @@
+
+body{
+    background: #C0F7F0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: lightgray;
+    text-align: center;
+    line-height: 100px;
+    border-bottom: 3px dashed black;
+    color: rgb(9, 59, 68);
+}
